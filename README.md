@@ -2,6 +2,7 @@
 javascript app
 
 #Thank you for downloading Budgety App i hope you like it 😊😊
+You can see the live version here : [budgety-app](https://money-manager-jsapp.netlify.app/)
 
 This is built and taught from a Udemy Course [The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
